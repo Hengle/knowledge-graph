@@ -114,63 +114,64 @@ Programmer knowledge graph
 
 # 六、 Design Pattern
 
-## 1、[抽象工厂模式](https://blog.csdn.net/jiankunking/article/details/49922851)
+1、[抽象工厂模式](https://blog.csdn.net/jiankunking/article/details/49922851)
 
-## 2、[职责链模式](https://blog.csdn.net/jiankunking/article/details/50443294)
+2、[职责链模式](https://blog.csdn.net/jiankunking/article/details/50443294)
 
-## 3、[命令模式](https://blog.csdn.net/jiankunking/article/details/50767837)
+3、[命令模式](https://blog.csdn.net/jiankunking/article/details/50767837)
 
-## 4、[观察者模式](https://blog.csdn.net/jiankunking/article/details/49922851)
+4、[观察者模式](https://blog.csdn.net/jiankunking/article/details/49922851)
 
-## 5、[适配器模式](https://blog.csdn.net/jiankunking/article/details/51602132)
+5、[适配器模式](https://blog.csdn.net/jiankunking/article/details/51602132)
 
-## 6、[防痴呆设计](https://blog.csdn.net/jiankunking/article/details/86543990)
+6、[防痴呆设计](https://blog.csdn.net/jiankunking/article/details/86543990)
 
 # 七、 Netty
 
-## 1、[Java NIO AIO 基本概念](https://blog.csdn.net/jiankunking/article/details/82924073)
+1、[Java NIO AIO 基本概念](https://blog.csdn.net/jiankunking/article/details/82924073)
 
-## 2、[Netty Reactor 模型](https://blog.csdn.net/jiankunking/article/details/84930232)
+2、[Netty Reactor 模型](https://blog.csdn.net/jiankunking/article/details/84930232)
 
-## 3、[NIO零拷贝与操作系统零拷贝](https://blog.csdn.net/jiankunking/article/details/82924165)
+3、[NIO零拷贝与操作系统零拷贝](https://blog.csdn.net/jiankunking/article/details/82924165)
 
 # 八、 Linux
 
-## 1、[epoll 的本质是什么？](https://blog.csdn.net/jiankunking/article/details/90518647)
+1、[epoll 的本质是什么？](https://blog.csdn.net/jiankunking/article/details/90518647)
 
-## 2、[理解Linux文件系统之 inode](https://blog.csdn.net/jiankunking/article/details/80822114)
+2、[理解Linux文件系统之 inode](https://blog.csdn.net/jiankunking/article/details/80822114)
 
-## 3、[systemctl](https://blog.csdn.net/jiankunking/article/details/79826025)
+3、[systemctl](https://blog.csdn.net/jiankunking/article/details/79826025)
 
-## 4、[journalctl](https://blog.csdn.net/jiankunking/article/details/79826183)
+4、[journalctl](https://blog.csdn.net/jiankunking/article/details/79826183)
 
 # 九、 Action
 
-## 1、[对于异地多活的实践与思考](https://blog.csdn.net/jiankunking/article/details/86654181)
+1、[对于异地多活的实践与思考](https://blog.csdn.net/jiankunking/article/details/86654181)
 
-## 2、[关于日志的那些事儿](https://blog.csdn.net/jiankunking/article/details/81806573)
+2、[关于日志的那些事儿](https://blog.csdn.net/jiankunking/article/details/81806573)
 
-## 3、[如何从零手撕一个PaaS平台？](https://blog.csdn.net/jiankunking/article/details/84671080)
+3、[如何从零手撕一个PaaS平台？](https://blog.csdn.net/jiankunking/article/details/84671080)
 
-## 4、[如何手撕一个API 网关（API Gateway）？](https://blog.csdn.net/jiankunking/article/details/85238110)
+4、[如何手撕一个API 网关（API Gateway）？](https://blog.csdn.net/jiankunking/article/details/85238110)
 
 # 十、 编程规约
 
-## 1、[安全规约](https://blog.csdn.net/jiankunking/article/details/56279795)
+1、[安全规约](https://blog.csdn.net/jiankunking/article/details/56279795)
 
-## 2、[工程规约](https://blog.csdn.net/jiankunking/article/details/56279746)
+2、[工程规约](https://blog.csdn.net/jiankunking/article/details/56279746)
 
-## 3、[MySQL规约](https://blog.csdn.net/jiankunking/article/details/56279259)
+3、[MySQL规约](https://blog.csdn.net/jiankunking/article/details/56279259)
 
-## 4、[异常日志](https://blog.csdn.net/jiankunking/article/details/56278914)
+4、[异常日志](https://blog.csdn.net/jiankunking/article/details/56278914)
 
-## 5、[编程规约](https://blog.csdn.net/jiankunking/article/details/56268986)
+5、[编程规约](https://blog.csdn.net/jiankunking/article/details/56268986)
 
 # 十一、网络
 
-## 1、[TCP与UDP](https://blog.csdn.net/jiankunking/article/details/79321249)
+1、[TCP与UDP](https://blog.csdn.net/jiankunking/article/details/79321249)
 
-## 2、[确保 Web 安全的 HTTPS](https://blog.csdn.net/jiankunking/article/details/79327814)
+2、[确保 Web 安全的 HTTPS](https://blog.csdn.net/jiankunking/article/details/79327814)
 
 
+# 十二、个人微信公众号
 ![个人微信公众号](https://github.com/jiankunking/knowledge-graph/blob/master/images/wechat.jpg)
