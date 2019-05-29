@@ -28,7 +28,9 @@ Programmer knowledge graph
 
 ### 1.3 GC
 [Java 12 Shenandoah GC](https://blog.csdn.net/jiankunking/article/details/86179156)
+
 [Java ZGC: A Scalable Low-Latency Garbage Collector](https://blog.csdn.net/jiankunking/article/details/85261066)
+
 [Java GC G1 详解](https://blog.csdn.net/jiankunking/article/details/85626279)
 
 ## 2、[Golang](https://blog.csdn.net/jiankunking/article/category/7072910)
@@ -44,6 +46,7 @@ Programmer knowledge graph
 
 ### 2.2 GC
 [Golang GC](https://blog.csdn.net/jiankunking/article/details/85011472)
+
 [Golang GC: Prioritizing low latency and simplicity](https://blog.csdn.net/jiankunking/article/details/85012030)
 
 ## 3、[C#](https://blog.csdn.net/jiankunking/article/category/1845809)
