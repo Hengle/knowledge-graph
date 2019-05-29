@@ -1,6 +1,3 @@
-# knowledge-graph
-Programmer knowledge graph
-
 # 一、 Language
 ## 1、[Java](https://blog.csdn.net/jiankunking/article/category/6238108)
 ### 1.1 JVM
